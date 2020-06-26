@@ -1,0 +1,40 @@
+PHP PHP
+Laravel
+React React React React React React React
+Vue Vue Vue
+Angular Angular Angular
+Node
+Git
+Jira
+HTML HTML
+CSS CSS
+JSON JSON
+AJAX
+Node.js
+jQuery
+SASS SASS
+LESS
+Jasmine
+Protractor
+CucumberJS
+JavaScript JavaScript JavaScript JavaScript
+TypeScript
+NPM
+Yarn
+Ava
+Jest
+Koa
+Rollup
+Webpack Webpack
+Redux Redux Redux Redux Redux
+Electron
+API API
+AWS
+C#
+.NET
+SAP
+Git Git
+GitHub
+Debugging
+Azure Azure
+Agile
